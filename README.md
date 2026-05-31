@@ -10,13 +10,12 @@ Features
 - Path Tracing
 - Real-Time Statistics
 
-Technologies
+Screenshots
 
-- C++
-- STL
-- SFML
+ BFS
 
-Algorithms
+![BFS](bfs.png)
 
-- Breadth First Search (BFS)
-- Depth First Search (DFS)
+ DFS
+
+![DFS](dfs.png)
