@@ -1,8 +1,8 @@
-Pathfinding Visualizer
+# Pathfinding Visualizer
 
 Interactive Pathfinding Visualizer built using C++ and SFML.
 
-Features
+## Features
 
 - BFS Visualization
 - DFS Visualization
@@ -10,12 +10,12 @@ Features
 - Path Tracing
 - Real-Time Statistics
 
-Screenshots
+## Screenshots
 
- BFS
+### BFS
 
 ![BFS](bfs.png)
 
- DFS
+### DFS
 
 ![DFS](dfs.png)
